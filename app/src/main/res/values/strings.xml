@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">PiuPiu</string>
+
+	<string name="seconds_left">"Осталось %1$d сек.</string>
+	<string name="time_is_up">Время истекло</string>
+	<string name="game_over">Игра закончена</string>
+	<string name="new_game_btn_text">Новая игра</string>
+	<string name="score">%1$d очков</string>
+	<string name="retry">Повторить</string>
+	<string name="to_menu">Меню</string>
+	<string name="menu_dialog_button">menu</string>
+</resources>

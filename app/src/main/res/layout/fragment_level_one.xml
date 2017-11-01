@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@android:color/transparent">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="horizontal">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:orientation="vertical">
+
+			<include layout="@layout/poks1layout"/>
+
+			<include layout="@layout/poks2layout"/>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:orientation="vertical">
+
+			<include layout="@layout/poks3layout"/>
+
+			<include layout="@layout/poks4layout"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</RelativeLayout>

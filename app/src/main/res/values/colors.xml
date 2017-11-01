@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#F8BBD0</color>
+	<color name="colorPrimaryDark">#C48B9F</color>
+	<color name="colorAccent">#C5E1A5</color>
+	<color name="score_and_pok_background_color">#BCAAA4</color>
+	<color name="progress_background_c_color">#757575</color>
+</resources>
