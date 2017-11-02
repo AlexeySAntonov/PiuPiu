@@ -3,7 +3,7 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
 	<corners android:radius="20dip"/>
 	<solid
-		android:color="#bcaaa4"/>
+		android:color="@color/menu_button_color"/>
 	<stroke
 		android:width="0.5dp"
 		android:color="@android:color/white"/>

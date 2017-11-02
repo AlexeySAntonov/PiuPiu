@@ -10,8 +10,9 @@
 		android:id="@+id/backgroundImage"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
-		android:scaleType="centerCrop"
-		app:srcCompat="@drawable/level_one_background"/>
+		android:scaleType="fitXY"
+		app:srcCompat="@drawable/level_one_background"
+		android:fitsSystemWindows="false"/>
 
 	<LinearLayout
 		android:id="@+id/progressLayout"
@@ -22,7 +23,8 @@
 		android:layout_marginRight="16dp"
 		android:layout_marginTop="4dp"
 		android:gravity="center_vertical"
-		android:orientation="horizontal">
+		android:orientation="horizontal"
+		android:fitsSystemWindows="true">
 
 		<TextView
 			android:id="@+id/seconds"

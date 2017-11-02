@@ -3,6 +3,16 @@
 	<color name="colorPrimary">#F8BBD0</color>
 	<color name="colorPrimaryDark">#C48B9F</color>
 	<color name="colorAccent">#C5E1A5</color>
-	<color name="score_and_pok_background_color">#BCAAA4</color>
-	<color name="progress_background_c_color">#757575</color>
+	<color name="default_white_transparent_color">#99FAFAFA</color>
+	<color name="pok_background_color">#CCBCAAA4</color>
+	<color name="pok_background_pressed_color">#DDFAFAFA</color>
+	<color name="progress_background_c_color">#AA757575</color>
+	<color name="progress_background_e_color">#AA9E9E9E</color>
+	<color name="progress_background_s_color">#AABDBDBD</color>
+	<color name="progress_c_color">#AA01579B</color>
+	<color name="progress_e_color">#AA0288D1</color>
+	<color name="progress_s_color">#AA81D4FA</color>
+	<color name="score_background_color">#AA7986CB</color>
+	<color name="menu_button_color">#AABCAAA4</color>
+	<color name="default_stroke_color">#8c7b75</color>
 </resources>

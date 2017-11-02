@@ -69,7 +69,7 @@ public class GameActivity extends AppCompatActivity {
 				backgroundImage.setImageResource(R.drawable.pause_background);
 				backgroundImage.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
 				pauseImage.setColorFilter(
-						ContextCompat.getColor(this, R.color.score_and_pok_background_color),
+						ContextCompat.getColor(this, R.color.pok_background_color),
 						PorterDuff.Mode.MULTIPLY);
 				fragmentContainerLayout.setVisibility(View.INVISIBLE);
 				bufferProgress = progressBar.getProgress();
